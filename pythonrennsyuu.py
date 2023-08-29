@@ -13,4 +13,13 @@ SyntaxError: EOL while scanning string literal
 >>> print("答えは"10+20）
       
 SyntaxError: invalid syntax
+>>> print("こんにちは、フタバさん"）
+      
+SyntaxError: invalid character in identifier
+>>> print
+<built-in function print>
+>>> print("こんにちは、フタバさん")
+こんにちは、フタバさん
+>>> print("今日はいい天気ですね")
+今日はいい天気ですね
 >>> 
